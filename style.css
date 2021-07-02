@@ -1,0 +1,116 @@
+.navigation {
+/* box-sizing: content-box; */
+position: absolute;
+position: fixed;
+letter-spacing: 4px;
+z-index: 1;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 15px;
+width: 100%;
+margin: auto;
+}
+.heading-link {
+  margin-left: 65%;
+  /* word-spacing: 20px; */
+}
+.head-1 {
+  font-size: 15px;  
+}
+.burger {
+width: 100%;
+height: 100%;
+}
+.text {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    /* top: 20%; */
+    /* position: sticky; */
+    padding: 2%;
+    letter-spacing: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 300%;
+    color: gray;
+    /* position: inherit; */
+}
+#About {
+  /* padding: auto; */
+  margin-top: 7%; 
+}
+.cater {
+  width: 100%;
+  padding: 4%;
+}
+.cater-1{
+  text-align: center;  
+  font-size: bold;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 5px;
+  font-size: 35px;
+}
+.season {
+  display: inline-block;
+  text-align: center;
+  background-color: lightgray;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+#Menu {
+  margin: 6%;
+}
+hr {
+  box-sizing: content-box;
+  border: 0;
+  border-top: 1px solid gainsboro;
+  margin: 2%;
+  margin-left: 13%;
+  margin-right: 13%;
+}
+.cater-2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  letter-spacing: 5px;
+}
+#tradition {
+  text-align: center;
+}
+.cater-3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: grey;
+  font-size: 17px;
+}
+.cater-0 {
+  margin-top: 5%;
+}
+#Contact {
+  /* padding-top: 64px;
+  padding-bottom: 64px;
+  padding-left: 50px; */
+  margin: 14%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.contact-1 {
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 5px;
+  font-size: 35px;
+}
+.contact-2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+.contact-3 {
+  color: #607d8b;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+.button-1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer-1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: lightgray;
+  font-size: 15px;
+  padding: 38px 0px;
+}
